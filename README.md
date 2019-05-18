@@ -1,4 +1,4 @@
-# Conference Review Database
+# Paper Review Database
 
 ## References
 - #3.34 on pg.104 of _Foundamentals of Database Systems (7th edition)_ by Elmasri, Navathe.
@@ -27,6 +27,9 @@ Consider a `CONFERENCE_REVIEW` database in which researchers submit their resear
 
 ## Objectives
 
-- #### Part 1: Implement Database Schema For Conference Review (Paper Reviews) Database :
+- #### Part 1: Implement Database Schema For Conference Review/Paper Reviews) Database 
   - Implement all entities, constraints ( Use SQL queries to create database schema).
   - Populate your database using SQL INSERT statements.
+  
+- #### Part 2: Create a simple command line, Java application to interact with the database
+  - See folder src/databaseQuery for details
